@@ -58,7 +58,7 @@ This project is designed to help users find fashion items similar to an uploaded
 For questions or feedback, feel free to reach out:
 
 - **Email**: [jainmoksh03@gmail.com](mailto:jainmoksh03@gmail.com)
-- **Portfolio**: [itsmemoksh.in](https://itsmemoksh.in/) - Check out my other projects!
+- **Portfolio**: [itsmemoksh.in](https://itsmemoksh.in/)
 
 ---
 
